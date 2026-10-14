@@ -1,0 +1,4 @@
+bin/
+obj/
+.demo-data/
+.DS_Store
